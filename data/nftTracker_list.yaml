@@ -1,0 +1,8 @@
+- price_type: all
+  time_type: last_5min
+- price_type: all
+  time_type: last_30min
+- price_type: all
+  time_type: last_1h
+- price_type: all
+  time_type: last_24h

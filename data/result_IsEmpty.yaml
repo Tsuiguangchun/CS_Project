@@ -1,0 +1,78 @@
+- address: https://api.coinsky.ai/v1_2_1/getExchangeInfo.json
+  body:
+    day: day
+    exchange_id: exchange_id
+- address: https://api.coinsky.ai/v1_2_1/getHotSearchContract.json
+  body: null
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: neutrino-usd
+    day: 1
+    exchange: binance
+    symbol: USDN
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: tether-gold
+    day: 1
+    exchange: binance
+    symbol: XAUT
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: chia-network
+    day: 1
+    exchange: binance
+    symbol: XCH
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: zeon
+    day: 1
+    exchange: binance
+    symbol: ZEON
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: deso
+    day: 1
+    exchange: binance
+    symbol: DESO
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: ssv-network
+    day: 1
+    exchange: binance
+    symbol: SSV
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: hxro
+    day: 1
+    exchange: binance
+    symbol: HXRO
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: pirate-chain
+    day: 1
+    exchange: binance
+    symbol: ARRR
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: sologenic
+    day: 1
+    exchange: binance
+    symbol: SOLO
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: mstable-usd
+    day: 1
+    exchange: binance
+    symbol: MUSD
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: sperax
+    day: 1
+    exchange: binance
+    symbol: SPA
+- address: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+  body:
+    coin_id: bridge-oracle
+    day: 1
+    exchange: binance
+    symbol: BRG

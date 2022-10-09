@@ -1,0 +1,16 @@
+testEnvironment:
+    host: http://bc_api.xxx
+    appkey: 1b2c4074477
+    secret: sePIAPgVMJ23ahOBTRUzW14K9GHzKdQdgHX1eZkcHHVXv4OsXXXX
+    ase_key: FdKBxxxxxx
+    ase_iv: 5eyvgxxxxx
+releaseEnvironment:
+    host: https://api.xxx
+    appkey: xxxx910c40b076627a40
+    secret: xxxxxsks2dY7ZmJdfvqzSSz9DQK4oXRWFI5IeCbgiV6cPrBNRqtpld
+    ase_key: Sxxxx8O8UO
+    ase_iv: BExxxxAuZAeRVy
+
+rsaKey: "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYETMru3hvKUw0FTkysuSS8g8c
+        XpBIxZ0rkJPew5pUamCo7dR+Yg4sgDL67jBZOIXN5sc7GQkC0YaymiPUJDD27rEZ
+        ssmIRx2zefh62m/BU0SyGWBAM63sb+c8xxxxxxxxxxxx"

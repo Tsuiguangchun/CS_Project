@@ -1,0 +1,13 @@
+get_token:
+  app_version: "1.4.1"
+  client: "Android"
+  lang: "EN"
+  uuid: "538a04d4-8feb-315b-b9fd-43985ff808bc"
+
+get_Exchanges:
+  volume_24h_order:
+  num_pairs_order:
+  num_coins_order:
+  score_order:
+  page_no: 1
+  page_size: 20

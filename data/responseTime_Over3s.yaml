@@ -1,0 +1,16 @@
+- body:
+    coin_id: sxp
+    day: 1
+    exchange: binance
+    symbol: SXP
+  url: https://api.coinsky.ai/v1_2_1/getTokenCexDataInfo.json
+- body:
+    coin_id: chainlink
+    day: 30
+    exchange: binance
+    symbol: LINK
+  url: https://api.coinsky.ai/v1_2_1/getTokenCexMarketCapChart.json
+- body:
+    price_type: all
+    time_type: last_24h
+  url: https://api.coinsky.ai/v1_2_1/getNftList.json

@@ -1,0 +1,49 @@
+---
+initApi:
+  getToken: /token.json
+  generateConnectToken: /${apiVersion}/generateConnectToken.json
+
+  getToolsList: /${apiVersion}/getToolsList.json
+  getHotSearchContract: /${apiVersion}/getHotSearchContract.json
+  queryContract: /${apiVersion}/queryContract.json?address=0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd
+
+  getMarketIndexList: /${apiVersion}/getMarketIndexList.json
+  getUserRecommendToolbar: /${apiVersion}/getUserRecommendToolbar.json
+  getCurrencyCodeList: /${apiVersion}/getCurrencyCodeList.json
+  checkVersion: /${apiVersion}/checkVersion.json
+  inAppEvent: /${apiVersion}/inAppEvent.json
+
+tools:
+  queryContract: /${apiVersion}/queryContract.json
+  getExchangeNewSymbolList: /${apiVersion}/getExchangeNewSymbolList.json
+  getGasChainSetting: /${apiVersion}/getGasChainSetting.json
+  gasTracker: /${apiVersion}/gasTracker.json
+  getGasEventList: /${apiVersion}/getGasEventList.json
+  getNftList: /${apiVersion}/getNftList.json
+  getNftInfo: /${apiVersion}/getNftInfo.json
+
+
+discover:
+  getDiscoverCoinList: /${apiVersion}/getDiscoverCoinHotList.json
+
+login:
+  sendEmail: /${apiVersion}/sendVerifyCode.json
+  login: /${apiVersion}/login.json
+
+markets:
+  getCexList: /${apiVersion}/getCexList.json
+  getTokenCexDataInfo: /${apiVersion}/getTokenCexDataInfo.json
+  getTokenCexLineChart: /${apiVersion}/getTokenCexLineChart.json
+  getTokenCexMarketCapChart: /${apiVersion}/getTokenCexMarketCapChart.json
+  setCoinWatch: /${apiVersion}/setCoinWatch.json
+  getTokenPairTxns: /${apiVersion}/getTokenPairTxns.json?page_size=20&page_no=1
+  getTokenCexAllRate: /${apiVersion}/getTokenCexAllRate.json?coin_id=neutrino-usd
+  getTokenCexDataStatus: /${apiVersion}/getTokenCexDataStatus.json
+  coinAlertList: /${apiVersion}/coinAlertList.json?page_size=50&page_no=1
+  setCoinAlert: /${apiVersion}/setCoinAlert.json
+
+Exchanges:
+  getExchanges: /${apiVersion}/getExchanges.json
+  getExchangeInfo: /${apiVersion}/getExchangeInfo.json
+  getExchangeChart: /${apiVersion}/getExchangeChart.json
+  getExchangePairsList: /${apiVersion}/getExchangePairsList.json

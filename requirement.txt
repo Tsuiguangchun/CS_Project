@@ -1,0 +1,14 @@
+PyYAML
+allure-pytest
+allure-python-commons
+pycryptodome
+pytest
+pytest-dependency
+pytest-forked
+pytest-xdist
+pytest-ordering
+pytest-rerunfailures
+requests
+uiautomator2
+pytest-assume
+web3

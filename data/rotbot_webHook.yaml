@@ -1,0 +1,12 @@
+- webhook: https://oapi.dingtalk.com/robot/send?access_token=5095028718b9e8de3ee295cbaccf729e44ff8cd4ca2894a0fd1ba08b09059711
+  secret: SEC2b13475c0d23bf7b90161fa7696d0f00f0d27af2b5274ccd4d5756649c7d996a
+- webhook: https://oapi.dingtalk.com/robot/send?access_token=afaf1d925a55dc9ecf43177ee7cd8a9a90f60e971cd069b6b86bcb1a82cf4160
+  secret: SEC4d438cc52ef7d50ae07fdb6391b79bbf99155beb184a67d330474abecdb11289
+- webhook: https://oapi.dingtalk.com/robot/send?access_token=52811aca0a0d02771e9a2bbbddc3feb5d52f4999d989a424cbfefe379c65815a
+  secret: SEC26614363aabad676cd68b32720dafbf238676958b181795067c7c6811f8fb153
+- webhook: https://oapi.dingtalk.com/robot/send?access_token=4748ae9d5b07b893cd861e999007d1dd01656291a29545c96cbd27cbe2cf46e0
+  secret: SEC8604eb4a62107b08b9d9f04384b3b438c71133b5b21cc3b8295db7931072b5f9
+- webhook: https://oapi.dingtalk.com/robot/send?access_token=9582645ea15bb64e941a937a6e0f0c24fa46af37c34c9161bca76c2ff42f14ca
+  secret: SEC525aee6c812d78895faae4c50944f045abd56eb3f16db0991e1e6fb4a325e960
+- webhook: https://oapi.dingtalk.com/robot/send?access_token=092e24cedc4c72a750fca7ae96dc8e3fc239715b88611ff3d96ea3eb81251800
+  secret: SEC05bfdaa520855f299bcc0470217dd6169a33c7805a90f12e2721dc31d7759cd4
